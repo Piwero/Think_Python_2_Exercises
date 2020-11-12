@@ -25,3 +25,6 @@ def check_fermat_custom():
   
   
   check_fermat_custom()
+
+#this command works very well
+# I'm trying this from git
