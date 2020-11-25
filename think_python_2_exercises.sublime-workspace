@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"collatz"
+			],
+			[
+				"fi",
+				"fib_sequence"
+			],
+			[
+				"P",
+				"print"
+			],
+			[
+				"f",
+				"fibonacci_list"
+			],
+			[
+				"letter",
+				"letter_rotated"
+			],
+			[
+				"ro",
+				"rotate_letter"
+			],
+			[
+				"num",
+				"num_list"
+			],
+			[
+				"any",
+				"any_lowercase1"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"fol",
+				"folder"
+			],
+			[
+				"phone",
+				"phone_pattern"
+			],
+			[
+				"fil",
+				"file_path"
+			],
+			[
+				"unzip",
+				"unzip_directory"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"dif",
+				"difference"
+			],
+			[
+				"m",
+				"mysqrt"
+			],
+			[
+				"is",
+				"is_power"
+			],
+			[
+				"w",
+				"word"
+			],
+			[
+				"Koch",
+				"koch_curve"
+			],
+			[
+				"lent",
+				"lenght"
+			],
+			[
+				"time",
+				"time_format"
+			],
+			[
+				"s",
+				"step_angle"
+			],
+			[
+				"st",
+				"step_legth"
+			],
+			[
+				"arc",
+				"arc_lenght"
+			],
+			[
+				"cir",
+				"circle"
+			],
+			[
+				"ci",
+				"circle"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"print",
+				"print_spam"
+			],
+			[
+				"pi",
+				"print_spam"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "fin = open(words.txt)\nfin.readline()\n",
+			"file": "ex09_01.py",
+			"file_size": 36,
+			"file_write_time": 132508030049882986,
+			"settings":
+			{
+				"buffer_size": 37,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Traceback (most recent call last):\n  File \"/Users/gastrolink/workspace/Think_Python_2_Exercises/ex09_01.py\", line 1, in <module>\n    fin = open(words.txt)\nNameError: name 'words' is not defined\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 213,
+				"line_ending": "Unix",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3REPL.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"aublim",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gastrolink/workspace/Think_Python_2_Exercises/think_python_2_exercises.sublime-project",
+		"/Users/gastrolink/workspace/Think_Python_2_Exercises/ex08_05.py",
+		"/Users/gastrolink/workspace/Think_Python_2_Exercises/ex08_04.py",
+		"/Users/gastrolink/workspace/Think_Python_2_Exercises/ex08.py",
+		"/Users/gastrolink/Desktop/Python/pseudo.py",
+		"/Users/gastrolink/workspace/testing_django/myproject/boards/models.py",
+		"/Users/gastrolink/workspace/testing_django/myproject/boards/views.py",
+		"/Users/gastrolink/workspace/testing_django/myproject/myproject/settings.py",
+		"/Users/gastrolink/workspace/testing_django/myproject/manage.py",
+		"/Users/gastrolink/workspace/Think_Python_2_Exercises/ex07_01.py",
+		"/Users/gastrolink/workspace/Think_Python_2_Exercises/ex07_00.py",
+		"/Users/gastrolink/workspace/Think_Python_2_Exercises/ex06_05.py",
+		"/Users/gastrolink/workspace/Think_Python_2_Exercises/ex05_02.py",
+		"/Users/gastrolink/workspace/Think_Python_2_Exercises/README.md",
+		"/Users/gastrolink/workspace/README.md",
+		"/Users/gastrolink/Desktop/Python/Python_practices/ex06.py",
+		"/Users/gastrolink/Desktop/Python_practices/middle_exercises.py",
+		"/Users/gastrolink/Desktop/Python_practices/tp_exercises_05_05.py",
+		"/Users/gastrolink/Desktop/Python_practices/ex_fermat.py",
+		"/Users/gastrolink/Desktop/Python_practices/turtle_flowers.py",
+		"/Users/gastrolink/Desktop/Python_practices/war_game1.py",
+		"/Users/gastrolink/Desktop/Python_practices/test2repl.py",
+		"/Users/gastrolink/Desktop/Python_practices/polygon.py",
+		"/Users/gastrolink/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/gastrolink/Desktop/Python_practices/tp_exercises_5.py",
+		"/Users/gastrolink/Desktop/Python_practices/mypolygon.py",
+		"/Users/gastrolink/Desktop/testREPL.py",
+		"/Users/gastrolink/Desktop/war_game1.py",
+		"/Users/gastrolink/Desktop/text_cap.py",
+		"/Users/gastrolink/Desktop/cap.py",
+		"/Users/gastrolink/Library/Application Support/Sublime Text 3/Packages/User/python3REPL.sublime-build",
+		"/Users/gastrolink/Desktop/simple1.py"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ex09_01.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "9269f4ced3c147a6bf00a5238bcf18fe",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python3",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 180.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "think_python_2_exercises.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
